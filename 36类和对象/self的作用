@@ -1,0 +1,24 @@
+因为一个类可以实例化许多的对象，那么每一个对象都会去调用类中的方法。
+当一个对象调用类中的方法时，就会把对象作为参数，传给self，
+那么类就知道是哪一个对象在调用方法了。
+如上个例子中，方法带有self。(self类似于C++的this)
+class Turtle:
+    '''关于类的一个简单例子'''
+    color = 'green'
+    weight = 10
+    legs = 4
+    shell = True
+    mouth = '大嘴'
+
+    #方法
+    def climb(self):
+        print('向前爬。。。。')
+
+    def run(self):
+        print('向前跑。。。')
+    
+    def eat(self):
+        print('使劲吃。。。')
+
+    def sleep(self):
+        print('尽情睡。。。')

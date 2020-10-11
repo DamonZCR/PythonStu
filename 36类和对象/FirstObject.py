@@ -9,7 +9,7 @@ class Turtle:
 
     #方法
     def climb(self):
-        print('向前爬。。。。')
+        print('向前爬。。。')
 
     def run(self):
         print('向前跑。。。')
