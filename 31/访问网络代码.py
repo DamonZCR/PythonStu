@@ -19,7 +19,7 @@ def traslate(words):
 
     # 目标URL
 
-    targetURL = "http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule&smartresult=ugc&sessionFrom=null"
+    targetURL = "http://fanyi.youdao.com/translate_o?smartresult=dict&smartresult=rule"
 
     # 用户自定义表单，words表示的是用户要翻译的内容。这里使用的是dict类型，也可以使用元组列表（已经试过的）。
 
