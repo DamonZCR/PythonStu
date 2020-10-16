@@ -1,3 +1,4 @@
+#自创property，使用描述符
 class MyProperty:
     def __init__(self, fget=None,fset=None,fdel=None):
         self.fget = fget
