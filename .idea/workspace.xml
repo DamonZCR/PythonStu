@@ -4,10 +4,6 @@
     <expand>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
       <path>
@@ -16,29 +12,24 @@
         <item name="GROUP_NODE:PythonStu" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bfae77d-117b-4eca-a056-cec88b95d047" name="Default" comment="测试">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/七位数求和8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/三位数求和8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/两位数求和8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/五位数求和8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/六位数求和8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/分解整数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/输出三位数相加等于8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片/爬取煎蛋网图片-1-获取下页网址.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片/爬取煎蛋网图片-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46爬虫/访问网络代码2_添加隐藏功能_字典head.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46爬虫/异常处理/爬取贴吧图片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46爬虫/异常处理/访问不存在网址.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46爬虫/异常处理/返回状态码和状态页面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46爬虫/正则表示式/爬取贴吧图片-2-小括号是子组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46爬虫/正则表示式/爬取贴吧图片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46爬虫/简单应用/爬取SH图片.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45魔法方法/函数多参数的传入形式.py" beforeDir="false" afterPath="$PROJECT_DIR$/45魔法方法/函数多参数的传入形式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45魔法方法/练习描述符.py" beforeDir="false" afterPath="$PROJECT_DIR$/45魔法方法/练习描述符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/46爬虫/代理.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/代理.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/46爬虫/访问网络代码2_添加隐藏功能_字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/访问网络代码2_无隐藏.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/46爬虫/访问网络代码3_添加隐藏功能_add_header方法 copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/访问网络代码3_添加隐藏功能_add_header方法 copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片/爬取煎蛋网图片-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片/爬取煎蛋网图片-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46爬虫/访问网络代码2_添加隐藏功能_字典head.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/访问网络代码2_添加隐藏功能_字典head.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +74,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/46爬虫/异常处理" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
@@ -91,12 +82,15 @@
       <recent name="D:\PythonPro\FStudy\46爬虫\爬取煎蛋网图片-1-获取下页网址" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonPro\FStudy\46爬虫\异常处理" />
+      <recent name="D:\PythonPro\FStudy\46爬虫\简单应用" />
+      <recent name="D:\PythonPro\FStudy\46爬虫\正则表示式" />
       <recent name="D:\PythonPro\FStudy\46爬虫\爬取煎蛋网图片" />
       <recent name="D:\PythonPro\FStudy\46爬虫" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.爬取煎蛋网图片-2">
-    <configuration name="爬取煎蛋网图片-1-获取下页网址" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.爬取贴吧图片">
+    <configuration name="爬取贴吧图片-2-小括号是子组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,12 +98,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫/正则表示式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片/爬取煎蛋网图片-1-获取下页网址.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46爬虫/正则表示式/爬取贴吧图片-2-小括号是子组.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="爬取煎蛋网图片-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="返回状态码和状态页面" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,12 +120,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫/异常处理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片/爬取煎蛋网图片-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46爬虫/异常处理/返回状态码和状态页面.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="爬取煎蛋网图片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="访问不存在网址" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,12 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫/异常处理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PythonPro\FStudy\46爬虫\爬取煎蛋网图片-1-获取下页网址\爬取煎蛋网图片.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46爬虫/异常处理/访问不存在网址.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="访问网络代码2_无隐藏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="爬取贴吧图片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫/异常处理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PythonPro\FStudy\46爬虫\访问网络代码2_无隐藏.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46爬虫/异常处理/爬取贴吧图片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="访问网络代码2_添加隐藏功能_字典head" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="爬取SH图片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,12 +186,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫/简单应用" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46爬虫/访问网络代码2_添加隐藏功能_字典head.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46爬虫/简单应用/爬取SH图片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="爬取贴吧图片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46爬虫/正则表示式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46爬虫/正则表示式/爬取贴吧图片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,19 +305,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.访问网络代码2_无隐藏" />
-      <item itemvalue="Python.访问网络代码2_添加隐藏功能_字典head" />
-      <item itemvalue="Python.爬取煎蛋网图片" />
-      <item itemvalue="Python.爬取煎蛋网图片-1-获取下页网址" />
-      <item itemvalue="Python.爬取煎蛋网图片-2" />
+      <item itemvalue="Python.爬取贴吧图片-2-小括号是子组" />
+      <item itemvalue="Python.访问不存在网址" />
+      <item itemvalue="Python.返回状态码和状态页面" />
+      <item itemvalue="Python.爬取SH图片" />
+      <item itemvalue="Python.爬取贴吧图片" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.爬取煎蛋网图片-2" />
-        <item itemvalue="Python.爬取煎蛋网图片-1-获取下页网址" />
-        <item itemvalue="Python.爬取煎蛋网图片" />
-        <item itemvalue="Python.访问网络代码2_添加隐藏功能_字典head" />
-        <item itemvalue="Python.访问网络代码2_无隐藏" />
+        <item itemvalue="Python.爬取贴吧图片" />
+        <item itemvalue="Python.爬取SH图片" />
+        <item itemvalue="Python.返回状态码和状态页面" />
+        <item itemvalue="Python.访问不存在网址" />
+        <item itemvalue="Python.爬取贴吧图片-2-小括号是子组" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +334,9 @@
       <updated>1604147525233</updated>
       <workItem from="1604713060289" duration="2061000" />
       <workItem from="1605622337547" duration="141000" />
-      <workItem from="1605756081130" duration="18484000" />
+      <workItem from="1605756081130" duration="19372000" />
+      <workItem from="1605962551039" duration="3816000" />
+      <workItem from="1606030539010" duration="11635000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1604148289121</created>
@@ -334,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604411460855</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试">
+      <created>1605786530311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605786530311</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,37 +394,43 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="302" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604713925605" />
-    <state width="1877" height="192" key="GridCell.Tab.0.bottom" timestamp="1605781426966">
+    <state width="1877" height="136" key="GridCell.Tab.0.bottom" timestamp="1606043553120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1605781426966" />
+    <state width="1877" height="136" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606043553120" />
     <state width="1876" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604715139957" />
-    <state width="1877" height="192" key="GridCell.Tab.0.center" timestamp="1605781426966">
+    <state width="1877" height="136" key="GridCell.Tab.0.center" timestamp="1606043553120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1605781426966" />
+    <state width="1877" height="136" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606043553120" />
     <state width="1876" height="161" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604715139957" />
-    <state width="1877" height="192" key="GridCell.Tab.0.left" timestamp="1605781426966">
+    <state width="1877" height="136" key="GridCell.Tab.0.left" timestamp="1606043553120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1605781426966" />
+    <state width="1877" height="136" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606043553120" />
     <state width="1876" height="161" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604715139957" />
-    <state width="1877" height="192" key="GridCell.Tab.0.right" timestamp="1605781426966">
+    <state width="1877" height="136" key="GridCell.Tab.0.right" timestamp="1606043553120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="192" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1605781426966" />
+    <state width="1877" height="136" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606043553120" />
     <state width="1876" height="161" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604715139957" />
-    <state x="485" y="192" width="998" height="772" key="SettingsEditor" timestamp="1605779176412">
+    <state x="475" y="200" width="998" height="772" key="SettingsEditor" timestamp="1606043867531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="485" y="192" width="998" height="772" key="SettingsEditor/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1605779176412" />
+    <state x="475" y="200" width="998" height="772" key="SettingsEditor/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606043867531" />
     <state x="485" y="192" key="SettingsEditor/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604714408522" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605786552003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1605786552003" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FStudy$_1_.coverage" NAME="爬取煎蛋网图片-1-获取下页网址 Coverage Results" MODIFIED="1605774075724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片" />
     <SUITE FILE_PATH="coverage/FStudy$_2.coverage" NAME="爬取煎蛋网图片-2 Coverage Results" MODIFIED="1605780723332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片" />
     <SUITE FILE_PATH="coverage/FStudy$2__head.coverage" NAME="访问网络代码2_添加隐藏功能_字典head Coverage Results" MODIFIED="1605762180260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫" />
-    <SUITE FILE_PATH="coverage/FStudy$.coverage" NAME="爬取煎蛋网图片 Coverage Results" MODIFIED="1605773820114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫" />
+    <SUITE FILE_PATH="coverage/FStudy$_2_.coverage" NAME="爬取贴吧图片-2-小括号是子组 Coverage Results" MODIFIED="1605966742000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/正则表示式" />
+    <SUITE FILE_PATH="coverage/FStudy$SH.coverage" NAME="爬取SH图片 Coverage Results" MODIFIED="1606041499902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/简单应用" />
+    <SUITE FILE_PATH="coverage/FStudy$.coverage" NAME="爬取贴吧图片 Coverage Results" MODIFIED="1606042806986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/异常处理" />
     <SUITE FILE_PATH="coverage/FStudy$2__.coverage" NAME="访问网络代码2_添加隐藏功能_字典 Coverage Results" MODIFIED="1605761662395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫" />
   </component>
 </project>

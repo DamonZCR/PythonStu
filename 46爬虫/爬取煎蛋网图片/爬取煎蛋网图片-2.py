@@ -2,7 +2,7 @@ import urllib.request
 import os
 import time
 '''使用模块化实现爬取此网站的美女图片。
-从当前页面查找获取下一页的地址，保存当前页面，记录当前页面内的图片地址，保存图片，'''
+从当前页面查找获取下一页的地址，保存当前页面，记录当前页面内的图片地址，保存图片'''
 
 # 参数定义为图片保存路径folder，及下载网页的多少页图片。
 def downphoto(folder='D:\Download', page=2):
@@ -63,7 +63,7 @@ def getNextUrl(html):
 def getHtml(url):
     # 生成request对象
     res = urllib.request.Request(url)
-    # 使用第二种方法add_header（）隐藏 py
+    # 使用第二种方法add_header()隐藏 py
     res.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
                                  'Chrome/86.0.4240.111 Safari/537.36')
     response = urllib.request.urlopen(res)
