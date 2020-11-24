@@ -7,6 +7,7 @@ getNextUrl()实现煎蛋网这个Html文件里，固定位置的下页的url 地
 downphoto()函数将Html保存下来，并且输出下页的地址。
 这里有个知识点：写入文件需要用到UTF-8，而getNextUrl()分割时需要用到Unicode。'''
 
+
 # 参数定义为图片保存路径folder，及下载网页的多少页图片。
 def downphoto(folder='D:\Download'):
     # 如果文件夹已经存在会抛出异常，但仍会正常执行。

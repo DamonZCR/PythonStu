@@ -13,7 +13,6 @@ def cbk(a, b, c):
         per = 100
     print('%.2f%%' % per)
 
-
 url = 'https://www.python.org/ftp/python/doc/3.5.10/python-3.5.10-docs-html.tar.bz2'
 dir = os.path.abspath('D:\\Download')
 work_path = os.path.join(dir, 'python-3.5.10-docs-html.tar.bz2')

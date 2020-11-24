@@ -31,5 +31,5 @@ def download(url, savepath='D:\\Download'):
 
 if __name__ == '__main__':
     # 以下载cifar-10数据集为例
-    url = "https://www.python.org/ftp/python/doc/3.5.10/python-3.5.10-docs-html.tar.bz2"
+    url = "http://wx2.sinaimg.cn/mw690/a9ab7012gy1gkk3i3ds5wj20j60on78a.jpg"
     download(url, savepath='D:\\Download')

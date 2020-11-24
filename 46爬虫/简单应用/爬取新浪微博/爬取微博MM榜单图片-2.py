@@ -1,12 +1,14 @@
 import urllib.request
 import os
 import time
+import re
 '''使用模块化实现爬取此网站的美女图片。
 从当前页面查找获取下一页的地址，保存当前页面，记录当前页面内的图片地址，保存图片
 '''
 
+
 # 参数定义为图片保存路径folder，及下载网页的多少页图片。
-def downphoto(folder='D:\Download', page=2):
+def downphoto(folder='D:\\Download', page=1):
     # 如果文件夹已经存在会抛出异常，但仍会正常执行。
     try:
         os.mkdir(folder)
@@ -15,14 +17,15 @@ def downphoto(folder='D:\Download', page=2):
     os.chdir(folder)
 
     # 目标地址
-    indexUrl = 'http://jandan.net/ooxx'
+    indexUrl = 'https://weibo.com/?category=10007'
     for i in range(page):
         # 获取网页，获取下一页的地址
         # 注意这里只有将网页转换为Unicode形式才可以进行分片操作。
-        html = getHtml(indexUrl).decode('utf-8')
-        indexUrl = 'http:' + getNextUrl(html)
+        html = getHtml(indexUrl).decode('utf-8', 'ignore')
+        for url in getEveryUrl(html):
+            print(url)
         # 对findphoto() 返回的当前页面的所有图片地址进行保存
-        savephoto(findphoto(html))
+        # savephoto(findphoto(html))
 
 
 # 找到网页中的图片地址
@@ -54,11 +57,10 @@ def savephoto(photoadd):
 
 
 # 获取当前页面的下一页的地址。
-def getNextUrl(html):
-    # 加上22正好到下一页地址的位置
-    begin = html.find('Older Comments') + 22
-    end = html.find('previous-comment-page', begin) - 9
-    return html[begin:end]
+def getEveryUrl(html):
+    p = r'action-type="feed_list_item" href="([^"]+)"'
+    urllist = re.findall(p, html)
+    return urllist
 
 
 def getHtml(url):
