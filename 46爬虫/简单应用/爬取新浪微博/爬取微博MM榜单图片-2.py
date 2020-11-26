@@ -27,7 +27,6 @@ def downphoto(folder='D:\\Download', page=1):
         # 对findphoto() 返回的当前页面的所有图片地址进行保存
         # savephoto(findphoto(html))
 
-
 # 找到网页中的图片地址
 def findphoto(html):
     # 存放当前页面里图片的链接地址
