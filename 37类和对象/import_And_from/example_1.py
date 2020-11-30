@@ -9,7 +9,7 @@
 '''
 import sys
 sys.path.append(r'D:\PythonPro\FStudy\37类和对象')
-#print(sys.path)
+print(sys.path)
 
 from ImportTest import atest
 # import ImportTest
