@@ -7,7 +7,7 @@ import time
 4.要是它老爸的属性也不是很明显，就找它爷爷id=form
 5.于是就可以通过层级关系定位到
 '''
-driver = webdriver.Chrome()
+driver = webdriver.Chrome('..//chromedriver.exe')
 driver.get('https://www.baidu.com')
 
 # 想找输入标签<input,它的父标签是<span,它的爷爷标签是<form.
@@ -20,6 +20,15 @@ driver.find_element_by_id('kw').clear()
 # 通过它爷爷标签查找。
 time.sleep(3)
 driver.find_element_by_xpath("//form[@name='f']/span/input").send_keys('python')
+time.sleep(3)
+
+# 通过孩子找爷爷。找到form表单：/..找到它的父亲，再加上一个找到它的爷爷。
+a = driver.find_element_by_xpath("//*[@id='su']/../..")
+# 输出form
+print(a.tag_name)
+# 输出form的class属性值fm
+print(a.get_attribute('class'))
+
 time.sleep(3)
 driver.quit()
 

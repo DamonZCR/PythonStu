@@ -6,7 +6,7 @@ import time
 3.如果想制定具体某个标签，就可以直接写标签名称
 '''
 
-driver = webdriver.Chrome()
+driver = webdriver.Chrome('..//chromedriver.exe')
 driver.get('https://www.baidu.com')
 
 # 使用标签名，再使用id 属性进行定位。

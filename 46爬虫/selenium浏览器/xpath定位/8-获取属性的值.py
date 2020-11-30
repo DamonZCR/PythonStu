@@ -1,17 +1,22 @@
 from selenium import webdriver
 import time
 '''
-
+未完成
 '''
-driver = webdriver.Firefox()
+driver = webdriver.Firefox('../geckodriver.exe')
 driver.get('https://www.baidu.com')
 
 time.sleep(5)
 # 模糊匹配页面中的某个文本。
 # 点击百度主页的hao123
-driver.find_element_by_xpath("//*[contains(@id,'kw')]").send_keys('py')
-driver.find_element_by_id('su').click()
-time.sleep(5)
-res = driver.find_element_by_xpath('.//png').get_attribute('scr')
+res = driver.find_element_by_xpath("//*[contains(@id,'kw')]")
 print(res)
 time.sleep(5)
+driver.quit()
+#res = driver.find_element_by_xpath('.//png').get_attribute('scr')
+#print(res)
+#time.sleep(5)
+
+
+
+

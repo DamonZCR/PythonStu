@@ -5,7 +5,8 @@ import time
 以下定位的三个属性都是该标签的主要属性。
 '''
 
-driver = webdriver.Chrome()
+# ./代表当前目录      ../代表父级目录       /根目录
+driver = webdriver.Chrome('..//chromedriver.exe')
 driver.get('https://www.baidu.com')
 
 # 使用id 属性进行定位。

@@ -1,11 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-
 '''***此程序实现selenium的基本使用，主要是滚动条的操作，滚动至底部和顶部的两种方法。***
 添加浏览器的驱动火狐浏览器为geckodriver.exr 谷歌浏览器为chromedriver.exe
 驱动放在python.exe同一目录下。'''
-browser = webdriver.Chrome()
+
+# 使用相对路径，如将此驱动直接放置python.exe下，不需要加位置参数。其中 ./代表当前目录
+browser = webdriver.Chrome('./chromedriver.exe')
 # 窗口最大化
 browser.maximize_window()
 browser.get('http://www.baidu.com')
@@ -28,6 +29,8 @@ browser.execute_script('window.scrollTo(0,document.body.scrollHeight)')
 # browser.execute_script(js)
 # 弹出alert提示框
 browser.execute_script('alert("To Bottom")')
+time.sleep(3)
+browser.switch_to.alert.accept()
 
 
 # 滚动回顶部的两种方法
@@ -35,5 +38,5 @@ time.sleep(3)
 # browser.execute_script('window.scrollTo(0,0)')
 browser.execute_script('document.documentElement.scrollTop=0')
 
-time.sleep(15)
+time.sleep(8)
 browser.quit()

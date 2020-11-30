@@ -3,7 +3,7 @@ import time
 '''使用xpath其他属性定位：
 '''
 
-driver = webdriver.Chrome()
+driver = webdriver.Chrome('..//chromedriver.exe')
 driver.get('https://www.baidu.com')
 time.sleep(3)
 
