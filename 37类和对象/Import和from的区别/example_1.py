@@ -11,6 +11,6 @@ import sys
 sys.path.append(r'D:\PythonPro\FStudy\37类和对象')
 print(sys.path)
 
-from ImportTest import atest
+from Importex import atest
 # import ImportTest
 atest()

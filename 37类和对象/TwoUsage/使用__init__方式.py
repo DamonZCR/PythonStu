@@ -3,8 +3,11 @@
 在运行这个文件是，系统将总项目路径 和 这个文件所在的文件夹路径加入到系统路径。
 所以如果是同路径下的文件引用就直接引用好了。如果不是，就需要从上述路径开始接着加上
 想要引用文件的路径。如系统已经有了这个文件TwoUsage的路径，在使用test.ImportTest
-就够了。'''
+就够了。背后的含义仍是sys里添加了父路径。'''
 from test.ImportTest import A
+import test.ImportTest as it
 
 a = A()
 a.aPrint()
+
+it.atest()
