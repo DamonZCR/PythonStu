@@ -19,5 +19,5 @@ time.sleep(3)
 driver.find_element_by_xpath("//*[@name='wd']").send_keys('python')
 time.sleep(3)
 driver.find_element_by_xpath("//*[@class='s_ipt']").send_keys('python3')
-
+time.sleep(3)
 driver.quit()

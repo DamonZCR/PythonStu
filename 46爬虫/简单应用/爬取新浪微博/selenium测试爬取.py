@@ -5,7 +5,7 @@ import requests
 在这个搜索内容下爬取关于'全部艺人活跃粉丝榜的图片，但是程序实现只能简单获得。'''
 
 url = 'https://weibo.com/'
-driver = webdriver.Chrome('../geckodriver.exe')
+driver = webdriver.Chrome('D:\PythonPro\FStudy\46爬虫\selenium浏览器\chromedriver.exe')
 driver.get(url)
 
 time.sleep(100)

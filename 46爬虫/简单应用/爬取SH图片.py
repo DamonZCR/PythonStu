@@ -33,7 +33,7 @@ def getphoto(url):
 def downPFromUrl(html):
     ''' 正则表达式规则：src后[]字符类里有^"表示除了“以外的所有字符，后面的+ 表示一个或多个
     用来匹配照片的命名。加上()号后，就成了捕获组，捕获组才被保留。'''
-    p = r'<img src="([^"]+\.png)"'
+    p = r'<img src="([^"]+\.jpg)"'
     result = re.findall(p, html)
     for each in result:
         try:
@@ -57,6 +57,10 @@ if '__main__' == __name__:
     except FileExistsError as reason:
         print("异常：此文件夹已存在"+str(reason))
     os.chdir('D:\\Download')
-
-    url = 'https://www.4hua63.com/pic/html28/38458.html'
-    downPFromUrl(getHtml(url))
+    url = list()
+    url = ['https://www.4hua81.com/pic/html28/39458.html',
+           'https://www.4hua81.com/pic/html28/39426.html',
+           'https://www.4hua81.com/pic/html28/39453.html']
+    # print(url)
+    for i in url:
+        downPFromUrl(getHtml(i))
