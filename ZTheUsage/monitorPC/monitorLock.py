@@ -21,10 +21,10 @@ class WndProcHookMixin:
         self.msgDict = {}
 
     def hookWndProc(self):
-            self.oldWndProc = win32gui.SetWindowLong(self.winId(), win32con.GWL_WNDPROC, self.localWndProc)
+        self.oldWndProc = win32gui.SetWindowLong(self.winId(), win32con.GWL_WNDPROC, self.localWndProc)
 
     def unhookWndProc(self):
-            win32api.SetWindowLong(self.winId(), win32con.GWL_WNDPROC, self.oldWndProc)
+        win32api.SetWindowLong(self.winId(), win32con.GWL_WNDPROC, self.oldWndProc)
 
     def addMsgHandler(self, messageNumber, handler):
         self.msgDict[messageNumber] = handler
@@ -43,6 +43,7 @@ class WndProcHookMixin:
 class Window(QWidget, WndProcHookMixin):
     def __init__(self, *args, **kwargs):
         QWidget.__init__(self, *args, **kwargs)
+        # self.show()
         win32ts.WTSRegisterSessionNotification(self.winId(), win32ts.NOTIFY_FOR_ALL_SESSIONS)
         self.addMsgHandler(WM_WTSSESSION_CHANGE, self.on_session)
         self.hookWndProc()

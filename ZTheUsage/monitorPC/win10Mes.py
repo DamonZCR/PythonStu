@@ -1,3 +1,4 @@
+'''可能与检测开锁冲突，不能使用win10通知'''
 from win10toast import ToastNotifier
 
 
