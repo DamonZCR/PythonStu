@@ -2,8 +2,7 @@
 import sys
 import time
 import UseCemera
-# import win10Mes
-import showInfo
+import win10Mes2
 from PyQt5.QtWidgets import *
 import win32api
 import win32con
@@ -58,8 +57,7 @@ class Window(QWidget, WndProcHookMixin):
             print("Unlocked")
             unlocktime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
             UseCemera.takephoto()
-            showInfo.showInfo(unlocktime, locktime)
-            # win10Mes.win10Mes(unlocktime, locktime)
+            win10Mes2.win10Mes2(unlocktime, locktime)
 
 
 if __name__ == '__main__':
