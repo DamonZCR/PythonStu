@@ -10,16 +10,16 @@ import time
 driver = webdriver.Chrome('..//chromedriver.exe')
 driver.get('https://www.baidu.com')
 
-# 想找输入标签<input,它的父标签是<span,它的爷爷标签是<form.
+# 想找输入标签<Entry输入框,它的父标签是<span,它的爷爷标签是<form.
 
 # 找它父亲标签,这里一直失败。下面找他爷爷标签可以使用
-# driver.find_element_by_xpath("//span[@id='s_kw_wrap']/input").send_keys('py')
+# driver.find_element_by_xpath("//span[@id='s_kw_wrap']/Entry输入框").send_keys('py')
 time.sleep(3)
 driver.find_element_by_id('kw').clear()
 
 # 通过它爷爷标签查找。
 time.sleep(3)
-driver.find_element_by_xpath("//form[@name='f']/span/input").send_keys('量子')
+driver.find_element_by_xpath("//form[@name='f']/span/Entry输入框").send_keys('量子')
 time.sleep(3)
 
 # 通过孩子找爷爷。找到form表单：/..找到它的父亲，再加上一个找到它的爷爷。

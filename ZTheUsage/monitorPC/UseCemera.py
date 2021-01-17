@@ -15,7 +15,8 @@ def takephoto():
         os.mkdir(r'./' + daydir)
     os.chdir(os.getcwd() + '/' + daydir)
     phadd = str(time.strftime("%H-%M-%S", time.localtime())) + '.jpg'
-    cv2.imwrite(phadd, frame)
+    # cv2.imwrite(phadd, frame*255)	
+    cv2.imwrite(phadd, frame*5)
     cap.release()
 
 

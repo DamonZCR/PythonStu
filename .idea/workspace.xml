@@ -6,16 +6,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bfae77d-117b-4eca-a056-cec88b95d047" name="Default" comment="修改">
-      <change afterPath="$PROJECT_DIR$/ZTheUsage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZTheUsage/monitorPC/win10Mes2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZTheUsage/调用win10通知2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002/测试for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/1-第一个程序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/2-第二个测试程序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/3-2提醒内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/3-提醒内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/4-设置文本可变.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/5-2CheckButton实现多选.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/5-CheckButton实现选择.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/6-2Radiobutton设置单选框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/6-3Radiobutton设置单选框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/6-Radiobutton设置单选框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/7-LabelFrame设置单选框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/Entry输入框/8-2Entry实现多个输入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/Entry输入框/8-3样例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/Entry输入框/8-4实现登录框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/Entry输入框/8-entry输出框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测/9-2验证检测使用invalidcommd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测/9-验证失去焦点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/aa.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/damon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Copyright/计算langela算子.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZTheUsage/monitorPC/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ZTheUsage/monitorPC/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32异常/多异常输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/32异常/多异常输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32异常/多异常输出2-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/32异常/多异常输出2-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34/else与while搭配.py" beforeDir="false" afterPath="$PROJECT_DIR$/34/else与while搭配.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位/3-加上标签名定位.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位/3-加上标签名定位.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位/4-层级定位.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位/4-层级定位.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位/7-模糊匹配_终极.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位/7-模糊匹配_终极.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46爬虫/正则表示式/爬取贴吧图片-2-小括号是子组.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/正则表示式/爬取贴吧图片-2-小括号是子组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46爬虫/简单应用/爬取新浪微博/selenium测试爬取.py" beforeDir="false" afterPath="$PROJECT_DIR$/46爬虫/简单应用/爬取新浪微博/selenium测试爬取.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZTheUsage/UseCemera_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZTheUsage/UseCemera_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZTheUsage/monitorPC/UseCemera.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZTheUsage/monitorPC/UseCemera.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZTheUsage/monitorPC/monitorLock.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZTheUsage/monitorPC/monitorLock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZTheUsage/monitorPC/pysetup.bat" beforeDir="false" afterPath="$PROJECT_DIR$/ZTheUsage/monitorPC/pysetup.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZTheUsage/monitorPC/showInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZTheUsage/showInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZTheUsage/monitorPC/win10Mes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZTheUsage/调用摄像头.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZTheUsage/调用摄像头.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +88,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ZTheUsage" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -77,22 +101,22 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonPro\FStudy\47Tkinter\Entry输入框\输入验证检测" />
+      <recent name="D:\PythonPro\FStudy\47Tkinter\Entry输入框" />
+      <recent name="D:\PythonPro\FStudy\47Tkinter" />
       <recent name="D:\PythonPro\FStudy\ZTheUsage" />
       <recent name="D:\PythonPro\FStudy\ZQuest" />
-      <recent name="D:\PythonPro\FStudy\ZTheUsage\monitorPC" />
-      <recent name="D:\PythonPro\FStudy\37类和对象\TwoUsage\test" />
-      <recent name="D:\PythonPro\FStudy\46爬虫\简单应用" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonPro\FStudy\47Tkinter" />
+      <recent name="D:\PythonPro\FStudy\ZTheUsage" />
       <recent name="D:\PythonPro\FStudy\ZTheUsage\monitorPC" />
       <recent name="D:\PythonPro\FStudy\37__2" />
       <recent name="D:\PythonPro\FStudy\37类和对象\import_And_from" />
-      <recent name="D:\PythonPro\FStudy\37类和对象\import和from" />
-      <recent name="D:\PythonPro\FStudy\46爬虫\selenium浏览器" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.monitorLock">
-    <configuration name="monitorLock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.9-2验证检测使用invalidcommd">
+    <configuration name="8-3样例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +124,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZTheUsage/monitorPC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Entry输入框" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZTheUsage/monitorPC/monitorLock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Entry输入框/8-3样例.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="调用win10通知2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8-4实现登录框" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZTheUsage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Entry输入框" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZTheUsage/调用win10通知2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Entry输入框/8-4实现登录框.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="win10Mes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9-验证失去焦点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZTheUsage/monitorPC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZTheUsage/monitorPC/win10Mes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测/9-验证失去焦点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="win10Mes2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9-2验证检测使用invalidcommd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,12 +190,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZTheUsage/monitorPC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZTheUsage/monitorPC/win10Mes2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测/9-2验证检测使用invalidcommd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,42 +204,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="win10Mes2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in 9-验证失去焦点.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZTheUsage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PythonPro\FStudy\ZTheUsage\monitorPC\win10Mes2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测/9-验证失去焦点.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.win10Mes2" />
-      <item itemvalue="Python.monitorLock" />
-      <item itemvalue="Python.win10Mes2 (1)" />
-      <item itemvalue="Python.调用win10通知2" />
-      <item itemvalue="Python.win10Mes" />
+      <item itemvalue="Python.8-3样例" />
+      <item itemvalue="Python.8-4实现登录框" />
+      <item itemvalue="Python tests.pytest in 9-验证失去焦点.py" />
+      <item itemvalue="Python.9-验证失去焦点" />
+      <item itemvalue="Python.9-2验证检测使用invalidcommd" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.monitorLock" />
-        <item itemvalue="Python.win10Mes" />
-        <item itemvalue="Python.调用win10通知2" />
-        <item itemvalue="Python.win10Mes2 (1)" />
-        <item itemvalue="Python.win10Mes2" />
+        <item itemvalue="Python.9-2验证检测使用invalidcommd" />
+        <item itemvalue="Python.9-验证失去焦点" />
+        <item itemvalue="Python tests.pytest in 9-验证失去焦点.py" />
+        <item itemvalue="Python.8-4实现登录框" />
+        <item itemvalue="Python.8-3样例" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +291,14 @@
       <workItem from="1607923328117" duration="4550000" />
       <workItem from="1607935106614" duration="638000" />
       <workItem from="1608096412405" duration="621000" />
-      <workItem from="1608097426795" duration="1434000" />
+      <workItem from="1608097426795" duration="1832000" />
+      <workItem from="1608192505774" duration="99000" />
+      <workItem from="1608355243620" duration="406000" />
+      <workItem from="1608376089492" duration="1848000" />
+      <workItem from="1609118633425" duration="340000" />
+      <workItem from="1609119236171" duration="3116000" />
+      <workItem from="1610774570632" duration="4490000" />
+      <workItem from="1610858167508" duration="18090000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1604148289121</created>
@@ -365,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607935715131</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="修改">
+      <created>1608098882988</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608098882988</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,90 +481,91 @@
     </state>
     <state x="758" y="191" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606703281839" />
     <state x="414" y="175" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604713803786" />
-    <state x="665" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606832795793">
+    <state x="665" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610776145796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="665" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606832795793" />
+    <state x="665" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610776145796" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1607921106396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607921106396" />
-    <state x="764" y="302" key="FileChooserDialogImpl" timestamp="1607147854962">
+    <state x="768" y="218" key="FileChooserDialogImpl" timestamp="1608355650101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="764" y="302" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1607147854962" />
+    <state x="768" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1608192586702" />
+    <state x="768" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355650101" />
     <state x="764" y="302" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604713925605" />
-    <state width="1877" height="173" key="GridCell.Tab.0.bottom" timestamp="1608098276794">
+    <state width="1169" height="231" key="GridCell.Tab.0.bottom" timestamp="1610880216409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606302202209" />
-    <state width="1877" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1607439254492" />
+    <state width="1169" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610880216409" />
     <state width="1237" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1280.720@1920.6.1280.720" timestamp="1606709736769" />
-    <state width="1877" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608098276794" />
+    <state width="1877" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355651245" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1606537937016" />
     <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606128384445" />
-    <state width="1877" height="173" key="GridCell.Tab.0.center" timestamp="1608098276794">
+    <state width="1169" height="231" key="GridCell.Tab.0.center" timestamp="1610880216409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="274" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606302202209" />
-    <state width="1877" height="215" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1607439254492" />
+    <state width="1169" height="231" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610880216409" />
     <state width="1237" height="205" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1280.720@1920.6.1280.720" timestamp="1606709736769" />
-    <state width="1877" height="173" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608098276794" />
+    <state width="1877" height="213" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355651245" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1606537937016" />
     <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606128384445" />
-    <state width="1877" height="173" key="GridCell.Tab.0.left" timestamp="1608098276794">
+    <state width="1169" height="231" key="GridCell.Tab.0.left" timestamp="1610880216409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="274" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606302202209" />
-    <state width="1877" height="215" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1607439254492" />
+    <state width="1169" height="231" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610880216409" />
     <state width="1237" height="205" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1280.720@1920.6.1280.720" timestamp="1606709736769" />
-    <state width="1877" height="173" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608098276794" />
+    <state width="1877" height="213" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355651245" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1606537937016" />
     <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606128384445" />
-    <state width="1877" height="173" key="GridCell.Tab.0.right" timestamp="1608098276794">
+    <state width="1169" height="231" key="GridCell.Tab.0.right" timestamp="1610880216409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="274" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606302202209" />
-    <state width="1877" height="215" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1607439254492" />
+    <state width="1169" height="231" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610880216409" />
     <state width="1237" height="205" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1280.720@1920.6.1280.720" timestamp="1606709736769" />
-    <state width="1877" height="173" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608098276794" />
+    <state width="1877" height="213" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355651245" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1606537937016" />
     <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606128384445" />
-    <state width="1423" height="229" key="GridCell.Tab.1.bottom" timestamp="1607921187691">
+    <state width="1169" height="231" key="GridCell.Tab.1.bottom" timestamp="1610880216410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606444514371" />
+    <state width="1169" height="231" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610880216410" />
     <state width="1423" height="229" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607921187691" />
-    <state width="1423" height="229" key="GridCell.Tab.1.center" timestamp="1607921187691">
+    <state width="1169" height="231" key="GridCell.Tab.1.center" timestamp="1610880216410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606444514371" />
+    <state width="1169" height="231" key="GridCell.Tab.1.center/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610880216410" />
     <state width="1423" height="229" key="GridCell.Tab.1.center/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607921187691" />
-    <state width="1423" height="229" key="GridCell.Tab.1.left" timestamp="1607921187691">
+    <state width="1169" height="231" key="GridCell.Tab.1.left" timestamp="1610880216410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606444514371" />
+    <state width="1169" height="231" key="GridCell.Tab.1.left/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610880216410" />
     <state width="1423" height="229" key="GridCell.Tab.1.left/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607921187691" />
-    <state width="1423" height="229" key="GridCell.Tab.1.right" timestamp="1607921187691">
+    <state width="1169" height="231" key="GridCell.Tab.1.right" timestamp="1610880216410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606444514371" />
+    <state width="1169" height="231" key="GridCell.Tab.1.right/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610880216410" />
     <state width="1423" height="229" key="GridCell.Tab.1.right/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607921187691" />
     <state x="806" y="221" key="RollbackChangesDialog" timestamp="1606712871973">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="221" key="RollbackChangesDialog/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606712871973" />
-    <state x="712" y="212" width="998" height="772" key="SettingsEditor" timestamp="1607927120429">
+    <state x="712" y="212" width="998" height="772" key="SettingsEditor" timestamp="1610865444204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="712" y="212" width="998" height="772" key="SettingsEditor/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606715887223" />
+    <state x="712" y="212" width="998" height="772" key="SettingsEditor/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610865444203" />
     <state x="712" y="212" key="SettingsEditor/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607927120429" />
     <state x="485" y="192" key="SettingsEditor/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604714408522" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607935730005">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608098888483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606916873874" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607935730005" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608098888483" />
     <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606712852152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -540,10 +574,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="676" y="229" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607917650476" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1607844967114">
+    <state x="537" y="190" width="1185" height="781" key="dock-window-1" timestamp="1610860121230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1606745552072" />
+    <state x="537" y="190" width="1185" height="781" key="dock-window-1/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610860121230" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1610879508940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610879508940" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607844967114" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -551,29 +589,40 @@
     <SUITE FILE_PATH="coverage/FStudy$exceptionbox__.coverage" NAME="exceptionbox()测试 Coverage Results" MODIFIED="1607847304019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/35EasyGui" />
     <SUITE FILE_PATH="coverage/FStudy$6_.coverage" NAME="6-属性加上逻辑运算 Coverage Results" MODIFIED="1606703681423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
     <SUITE FILE_PATH="coverage/FStudy$index.coverage" NAME="index Coverage Results" MODIFIED="1606712883217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/36类和对象/乌龟和鱼的游戏" />
-    <SUITE FILE_PATH="coverage/FStudy$_2_.coverage" NAME="爬取贴吧图片-2-小括号是子组 Coverage Results" MODIFIED="1607438991807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/正则表示式" />
+    <SUITE FILE_PATH="coverage/FStudy$_2_.coverage" NAME="爬取贴吧图片-2-小括号是子组 Coverage Results" MODIFIED="1610775281567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/正则表示式" />
     <SUITE FILE_PATH="coverage/FStudy$urlretrieve_2.coverage" NAME="urlretrieve-2 Coverage Results" MODIFIED="1606050597695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/urlretrieve下载" />
-    <SUITE FILE_PATH="coverage/FStudy$3_.coverage" NAME="3-加上标签名定位 Coverage Results" MODIFIED="1606378651853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
     <SUITE FILE_PATH="coverage/FStudy$sys_2.coverage" NAME="使用sys添加_2 Coverage Results" MODIFIED="1606717470367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/引用的两种方式" />
+    <SUITE FILE_PATH="coverage/FStudy$3_.coverage" NAME="3-提醒内容 Coverage Results" MODIFIED="1610859611196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
+    <SUITE FILE_PATH="coverage/FStudy$for.coverage" NAME="测试for Coverage Results" MODIFIED="1610867591447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
     <SUITE FILE_PATH="coverage/FStudy$__init___.coverage" NAME="使用__init__方式_拓展 Coverage Results" MODIFIED="1606832720381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/TwoUsage" />
+    <SUITE FILE_PATH="coverage/FStudy$5_CheckButton.coverage" NAME="5-CheckButton实现选择 Coverage Results" MODIFIED="1610864095231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$pytest_for_ImportTest_test.coverage" NAME="pytest for ImportTest.test Coverage Results" MODIFIED="1606716785995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象" />
     <SUITE FILE_PATH="coverage/FStudy$example_1__1_.coverage" NAME="example_1 (1) Coverage Results" MODIFIED="1606744382466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/import和from" />
+    <SUITE FILE_PATH="coverage/FStudy$7_LabelFrame.coverage" NAME="7-LabelFrame设置单选框 Coverage Results" MODIFIED="1610869585715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$7__.coverage" NAME="7-模糊匹配_终极 Coverage Results" MODIFIED="1607829057718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
+    <SUITE FILE_PATH="coverage/FStudy$6_3Radiobutton.coverage" NAME="6-3Radiobutton设置单选框 Coverage Results" MODIFIED="1610868792945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$showInfo.coverage" NAME="showInfo Coverage Results" MODIFIED="1607852774893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage/monitorPC" />
     <SUITE FILE_PATH="coverage/FStudy$win10Mes2__1_.coverage" NAME="win10Mes2 (1) Coverage Results" MODIFIED="1608097673385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage/monitorPC" />
-    <SUITE FILE_PATH="coverage/FStudy$monitorLock.coverage" NAME="monitorLock Coverage Results" MODIFIED="1608098276784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage/monitorPC" />
+    <SUITE FILE_PATH="coverage/FStudy$8_3.coverage" NAME="8-3样例 Coverage Results" MODIFIED="1610872870805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框" />
+    <SUITE FILE_PATH="coverage/FStudy$9_.coverage" NAME="9-验证失去焦点 Coverage Results" MODIFIED="1610879736431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
+    <SUITE FILE_PATH="coverage/FStudy$monitorLock.coverage" NAME="monitorLock Coverage Results" MODIFIED="1608098955828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage/monitorPC" />
+    <SUITE FILE_PATH="coverage/FStudy$6_Radiobutton.coverage" NAME="6-Radiobutton设置单选框 Coverage Results" MODIFIED="1610865481483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$2_.coverage" NAME="2-其他属性定位 Coverage Results" MODIFIED="1606378292673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
-    <SUITE FILE_PATH="coverage/FStudy$UseCemera.coverage" NAME="UseCemera Coverage Results" MODIFIED="1607925511133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage/monitorPC" />
+    <SUITE FILE_PATH="coverage/FStudy$9_2invalidcommd.coverage" NAME="9-2验证检测使用invalidcommd Coverage Results" MODIFIED="1610879993294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
+    <SUITE FILE_PATH="coverage/FStudy$UseCemera.coverage" NAME="UseCemera Coverage Results" MODIFIED="1609120340350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage/monitorPC" />
     <SUITE FILE_PATH="coverage/FStudy$urlretrieve_2__1_.coverage" NAME="urlretrieve使用-2 (1) Coverage Results" MODIFIED="1606053271545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/urlretrieve下载" />
     <SUITE FILE_PATH="coverage/FStudy$matlab.coverage" NAME="matlab展示图片 Coverage Results" MODIFIED="1607829914063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
-    <SUITE FILE_PATH="coverage/FStudy$1_FirstTest.coverage" NAME="1-FirstTest Coverage Results" MODIFIED="1606704075117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器" />
+    <SUITE FILE_PATH="coverage/FStudy$1_FirstTest.coverage" NAME="1-FirstTest Coverage Results" MODIFIED="1610775626970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器" />
+    <SUITE FILE_PATH="coverage/FStudy$elsewhile.coverage" NAME="else与while搭配 Coverage Results" MODIFIED="1608377747087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/34" />
+    <SUITE FILE_PATH="coverage/FStudy$8_4.coverage" NAME="8-4实现登录框 Coverage Results" MODIFIED="1610874329912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框" />
     <SUITE FILE_PATH="coverage/FStudy$EasyGui.coverage" NAME="简单使用EasyGui Coverage Results" MODIFIED="1607851897000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/35EasyGui" />
     <SUITE FILE_PATH="coverage/FStudy$_2.coverage" NAME="摄像头调用_2 Coverage Results" MODIFIED="1607830801458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
-    <SUITE FILE_PATH="coverage/FStudy$UseCemera_2.coverage" NAME="UseCemera_2 Coverage Results" MODIFIED="1607918846304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
+    <SUITE FILE_PATH="coverage/FStudy$UseCemera_2.coverage" NAME="UseCemera_2 Coverage Results" MODIFIED="1609120360879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
     <SUITE FILE_PATH="coverage/FStudy$integerboxdefault.coverage" NAME="integerbox中的default Coverage Results" MODIFIED="1606719003727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/35EasyGui" />
-    <SUITE FILE_PATH="coverage/FStudy$selenium.coverage" NAME="selenium测试爬取 Coverage Results" MODIFIED="1607439216208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/简单应用/爬取新浪微博" />
+    <SUITE FILE_PATH="coverage/FStudy$selenium.coverage" NAME="selenium测试爬取 Coverage Results" MODIFIED="1610775712788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/简单应用/爬取新浪微博" />
     <SUITE FILE_PATH="coverage/FStudy$dd.coverage" NAME="dd Coverage Results" MODIFIED="1607589268292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/TwoUsage/test" />
     <SUITE FILE_PATH="coverage/FStudy$UseCemera__1_.coverage" NAME="UseCemera (1) Coverage Results" MODIFIED="1607935599895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZQuest" />
+    <SUITE FILE_PATH="coverage/FStudy$5_2CheckButton.coverage" NAME="5-2CheckButton实现多选 Coverage Results" MODIFIED="1610870944603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$8_.coverage" NAME="8-获取属性的值 Coverage Results" MODIFIED="1606401005393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
     <SUITE FILE_PATH="coverage/FStudy$qq.coverage" NAME="qq Coverage Results" MODIFIED="1606312426296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器" />
     <SUITE FILE_PATH="coverage/FStudy$sys__1_.coverage" NAME="使用sys添加 (1) Coverage Results" MODIFIED="1606745219160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/TwoUsage" />
@@ -584,23 +633,28 @@
     <SUITE FILE_PATH="coverage/FStudy$1_FirstTest__1_.coverage" NAME="1-FirstTest (1) Coverage Results" MODIFIED="1606313929086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器" />
     <SUITE FILE_PATH="coverage/FStudy$2__head.coverage" NAME="访问网络代码2_添加隐藏功能_字典head Coverage Results" MODIFIED="1605762180260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫" />
     <SUITE FILE_PATH="coverage/FStudy$ccbox.coverage" NAME="测试ccbox Coverage Results" MODIFIED="1607849843965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/35EasyGui" />
-    <SUITE FILE_PATH="coverage/FStudy$SH.coverage" NAME="爬取SH图片 Coverage Results" MODIFIED="1606834787491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/简单应用" />
+    <SUITE FILE_PATH="coverage/FStudy$SH.coverage" NAME="爬取SH图片 Coverage Results" MODIFIED="1610775795852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/简单应用" />
     <SUITE FILE_PATH="coverage/FStudy$CheckLock.coverage" NAME="CheckLock Coverage Results" MODIFIED="1607867272782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
+    <SUITE FILE_PATH="coverage/FStudy$6_2Radiobutton.coverage" NAME="6-2Radiobutton设置单选框 Coverage Results" MODIFIED="1610868251176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$__1_.coverage" NAME="爬取贴吧图片 (1) Coverage Results" MODIFIED="1607439064826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/异常处理" />
     <SUITE FILE_PATH="coverage/FStudy$2__.coverage" NAME="访问网络代码2_添加隐藏功能_字典 Coverage Results" MODIFIED="1605761662395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫" />
-    <SUITE FILE_PATH="coverage/FStudy$urlretrieve_1.coverage" NAME="urlretrieve使用-1 Coverage Results" MODIFIED="1606049679450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫" />
+    <SUITE FILE_PATH="coverage/FStudy$8_entry.coverage" NAME="8-entry输出框 Coverage Results" MODIFIED="1610870597345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/input" />
     <SUITE FILE_PATH="coverage/FStudy$5_.coverage" NAME="5-索引定位 Coverage Results" MODIFIED="1606537570905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
+    <SUITE FILE_PATH="coverage/FStudy$urlretrieve_1.coverage" NAME="urlretrieve使用-1 Coverage Results" MODIFIED="1610775355842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/urlretrieve下载" />
     <SUITE FILE_PATH="coverage/FStudy$_1_.coverage" NAME="爬取煎蛋网图片-1-获取下页网址 Coverage Results" MODIFIED="1605774075724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片" />
     <SUITE FILE_PATH="coverage/FStudy$__init__.coverage" NAME="使用__init__方式 Coverage Results" MODIFIED="1607588889689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/TwoUsage" />
+    <SUITE FILE_PATH="coverage/FStudy$3_2.coverage" NAME="3-2提醒内容 Coverage Results" MODIFIED="1610860382458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$MM_2.coverage" NAME="爬取微博MM榜单图片-2 Coverage Results" MODIFIED="1607439152029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/简单应用/爬取新浪微博" />
     <SUITE FILE_PATH="coverage/FStudy$win10Mes.coverage" NAME="win10Mes Coverage Results" MODIFIED="1608098165997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage/monitorPC" />
+    <SUITE FILE_PATH="coverage/FStudy$2_1.coverage" NAME="多异常输出2-1 Coverage Results" MODIFIED="1608376465313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/32异常" />
+    <SUITE FILE_PATH="coverage/FStudy$pytest_in_9__py.coverage" NAME="pytest in 9-验证失去焦点.py Coverage Results" MODIFIED="1610875612517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
     <SUITE FILE_PATH="coverage/FStudy$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1606831709024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/Import和from的区别" />
-    <SUITE FILE_PATH="coverage/FStudy$urlretrieve_3.coverage" NAME="urlretrieve使用-3 Coverage Results" MODIFIED="1606051429470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/urlretrieve下载" />
+    <SUITE FILE_PATH="coverage/FStudy$urlretrieve_3.coverage" NAME="urlretrieve使用-3 Coverage Results" MODIFIED="1610775379199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/urlretrieve下载" />
     <SUITE FILE_PATH="coverage/FStudy$easygui.coverage" NAME="测试easygui Coverage Results" MODIFIED="1607849852936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/35EasyGui" />
-    <SUITE FILE_PATH="coverage/FStudy$win102.coverage" NAME="调用win10通知2 Coverage Results" MODIFIED="1608098045094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
+    <SUITE FILE_PATH="coverage/FStudy$win102.coverage" NAME="调用win10通知2 Coverage Results" MODIFIED="1608376099335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
     <SUITE FILE_PATH="coverage/FStudy$win10.coverage" NAME="调用win10通知 Coverage Results" MODIFIED="1607856342137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
-    <SUITE FILE_PATH="coverage/FStudy$4_.coverage" NAME="4-层级定位 Coverage Results" MODIFIED="1607829029780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
+    <SUITE FILE_PATH="coverage/FStudy$4_.coverage" NAME="4-设置文本可变 Coverage Results" MODIFIED="1610862586821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$1_.coverage" NAME="1-属性定位 Coverage Results" MODIFIED="1607438829696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
-    <SUITE FILE_PATH="coverage/FStudy$.coverage" NAME="调用摄像头 Coverage Results" MODIFIED="1607917966162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
+    <SUITE FILE_PATH="coverage/FStudy$.coverage" NAME="爬取贴吧图片 Coverage Results" MODIFIED="1610775176804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/正则表示式" />
   </component>
 </project>

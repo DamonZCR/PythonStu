@@ -14,8 +14,9 @@ while True:
 	gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 	cv2.imshow('Taking', gray)
 	if cv2.waitKey(30) == ord('q'):
-		# 关闭窗口，此行可省略
+		# 关闭所有窗口，此行可省略
 		cv2.destroyAllWindows()
+
 		# 释放摄像头
 		capture.release()
 		break

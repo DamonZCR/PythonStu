@@ -20,7 +20,7 @@ time.sleep(5)
 # 模糊匹配以什么未结束的属性值，第一行暂未支持，先只能使用第二行代替。
 # 在百度输入框追加python
 # driver.find_element_by_xpath("//*[ends-with(@id,'kw')]").send_keys('python')
-driver.find_element_by_xpath("//input[substring(@id,string-length(@id)-string-length("
+driver.find_element_by_xpath("//Entry输入框[substring(@id,string-length(@id)-string-length("
                              "'kw')+1)='kw']").send_keys('python')
 time.sleep(5)
 

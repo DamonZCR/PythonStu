@@ -36,5 +36,5 @@ if '__main__' == __name__:
         print("异常：此文件夹已存在"+str(reason))
     os.chdir('D:\\Download')
 
-    url = 'https://tieba.baidu.com/p/7138691716'
+    url = 'https://tieba.baidu.com/p/6833783429'
     downPFromUrl(getHtml(url))

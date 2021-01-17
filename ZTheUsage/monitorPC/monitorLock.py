@@ -51,10 +51,10 @@ class Window(QWidget, WndProcHookMixin):
         event, session_id = wParam, lParam
         global locktime
         if event == WTS_SESSION_LOCK:
-            print("Locked")
+            # print("Locked")
             locktime = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
         if event == WTS_SESSION_UNLOCK:
-            print("Unlocked")
+            # print("Unlocked")
             unlocktime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
             UseCemera.takephoto()
             win10Mes2.win10Mes2(unlocktime, locktime)
