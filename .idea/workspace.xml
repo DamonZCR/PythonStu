@@ -5,7 +5,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bfae77d-117b-4eca-a056-cec88b95d047" name="Default" comment="添加" />
+    <list default="true" id="3bfae77d-117b-4eca-a056-cec88b95d047" name="Default" comment="添加">
+      <change afterPath="$PROJECT_DIR$/47Tkinter/12-1Scale刻度滑块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/12-2Scale显示刻度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/12-Scale刻度滑块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/Text文本输入/13-1-Text文本输入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/Text文本输入/13-2-Text文本插入按钮.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47Tkinter/Text文本输入/13-3-Text文本插入图片.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +61,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/47Tkinter/Text文本输入" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -65,13 +73,6 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PythonPro\FStudy\47Tkinter\Entry输入框\输入验证检测" />
-      <recent name="D:\PythonPro\FStudy\47Tkinter" />
-      <recent name="D:\PythonPro\FStudy\47Tkinter\Entry输入框" />
-      <recent name="D:\PythonPro\FStudy\ZTheUsage" />
-      <recent name="D:\PythonPro\FStudy\ZQuest" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PythonPro\FStudy\47Tkinter" />
       <recent name="D:\PythonPro\FStudy\ZTheUsage" />
@@ -79,9 +80,16 @@
       <recent name="D:\PythonPro\FStudy\37__2" />
       <recent name="D:\PythonPro\FStudy\37类和对象\import_And_from" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonPro\FStudy\47Tkinter\Text文本输入" />
+      <recent name="D:\PythonPro\FStudy\47Tkinter" />
+      <recent name="D:\PythonPro\FStudy\47Tkinter\Entry输入框\输入验证检测" />
+      <recent name="D:\PythonPro\FStudy\47Tkinter\Entry输入框" />
+      <recent name="D:\PythonPro\FStudy\ZTheUsage" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.9-4-3实现计算器">
-    <configuration name="4-2设置字符或串可变" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.13-3-Text文本插入图片">
+    <configuration name="12-2Scale显示刻度" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +102,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/4-2设置字符或串可变.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/12-2Scale显示刻度.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-entry输出框" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13-1-Text文本输入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,12 +119,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Entry输入框" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Text文本输入" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Entry输入框/8-entry输出框.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Text文本输入/13-1-Text文本输入.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9-4-2实现实时检测" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13-2-Text文本插入按钮 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,12 +141,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Text文本输入" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测/9-4-2实现实时检测.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Text文本输入/13-2-Text文本插入按钮.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9-4-3实现计算器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13-2-Text文本插入按钮" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,12 +163,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Text文本输入" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测/9-4-3实现计算器.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonPro\FStudy\47Tkinter\Text文本输入\13-2-Text文本插入按钮.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9-4实现实时检测" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13-3-Text文本插入图片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,12 +185,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47Tkinter/Text文本输入" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测/9-4实现实时检测.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47Tkinter/Text文本输入/13-3-Text文本插入图片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +200,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.9-4实现实时检测" />
-      <item itemvalue="Python.4-2设置字符或串可变" />
-      <item itemvalue="Python.9-4-2实现实时检测" />
-      <item itemvalue="Python.8-entry输出框" />
-      <item itemvalue="Python.9-4-3实现计算器" />
+      <item itemvalue="Python.12-2Scale显示刻度" />
+      <item itemvalue="Python.13-1-Text文本输入" />
+      <item itemvalue="Python.13-2-Text文本插入按钮" />
+      <item itemvalue="Python.13-2-Text文本插入按钮 (1)" />
+      <item itemvalue="Python.13-3-Text文本插入图片" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9-4-3实现计算器" />
-        <item itemvalue="Python.9-4-2实现实时检测" />
-        <item itemvalue="Python.8-entry输出框" />
-        <item itemvalue="Python.4-2设置字符或串可变" />
-        <item itemvalue="Python.9-4实现实时检测" />
+        <item itemvalue="Python.13-3-Text文本插入图片" />
+        <item itemvalue="Python.13-2-Text文本插入按钮 (1)" />
+        <item itemvalue="Python.13-1-Text文本输入" />
+        <item itemvalue="Python.13-2-Text文本插入按钮" />
+        <item itemvalue="Python.12-2Scale显示刻度" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +277,7 @@
       <workItem from="1609119236171" duration="3116000" />
       <workItem from="1610774570632" duration="4490000" />
       <workItem from="1610858167508" duration="25399000" />
+      <workItem from="1611153059079" duration="5117000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1604148289121</created>
@@ -382,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610888053123</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="添加">
+      <created>1611153115227</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611153115227</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +496,7 @@
     <state x="768" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1608192586702" />
     <state x="768" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355650101" />
     <state x="764" y="302" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604713925605" />
-    <state width="1169" height="231" key="GridCell.Tab.0.bottom" timestamp="1610888114646">
+    <state width="1249" height="231" key="GridCell.Tab.0.bottom" timestamp="1611158320675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606302202209" />
@@ -488,8 +504,8 @@
     <state width="1237" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1280.720@1920.6.1280.720" timestamp="1606709736769" />
     <state width="1877" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355651245" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1606537937016" />
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606128384445" />
-    <state width="1169" height="231" key="GridCell.Tab.0.center" timestamp="1610888114646">
+    <state width="1249" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611158320675" />
+    <state width="1249" height="231" key="GridCell.Tab.0.center" timestamp="1611158320675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="274" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606302202209" />
@@ -497,8 +513,8 @@
     <state width="1237" height="205" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1280.720@1920.6.1280.720" timestamp="1606709736769" />
     <state width="1877" height="213" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355651245" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1606537937016" />
-    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606128384445" />
-    <state width="1169" height="231" key="GridCell.Tab.0.left" timestamp="1610888114646">
+    <state width="1249" height="231" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611158320675" />
+    <state width="1249" height="231" key="GridCell.Tab.0.left" timestamp="1611158320675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="274" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606302202209" />
@@ -506,8 +522,8 @@
     <state width="1237" height="205" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1280.720@1920.6.1280.720" timestamp="1606709736769" />
     <state width="1877" height="213" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355651245" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1606537937016" />
-    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606128384445" />
-    <state width="1169" height="231" key="GridCell.Tab.0.right" timestamp="1610888114646">
+    <state width="1249" height="231" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611158320675" />
+    <state width="1249" height="231" key="GridCell.Tab.0.right" timestamp="1611158320675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="274" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606302202209" />
@@ -515,27 +531,31 @@
     <state width="1237" height="205" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1280.720@1920.6.1280.720" timestamp="1606709736769" />
     <state width="1877" height="213" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608355651245" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1606537937016" />
-    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606128384445" />
-    <state width="1169" height="231" key="GridCell.Tab.1.bottom" timestamp="1610888114646">
+    <state width="1249" height="231" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611158320675" />
+    <state width="1249" height="231" key="GridCell.Tab.1.bottom" timestamp="1611158320676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1169" height="231" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610888114646" />
     <state width="1423" height="229" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607921187691" />
-    <state width="1169" height="231" key="GridCell.Tab.1.center" timestamp="1610888114646">
+    <state width="1249" height="231" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611158320676" />
+    <state width="1249" height="231" key="GridCell.Tab.1.center" timestamp="1611158320676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1169" height="231" key="GridCell.Tab.1.center/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610888114646" />
     <state width="1423" height="229" key="GridCell.Tab.1.center/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607921187691" />
-    <state width="1169" height="231" key="GridCell.Tab.1.left" timestamp="1610888114646">
+    <state width="1249" height="231" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611158320676" />
+    <state width="1249" height="231" key="GridCell.Tab.1.left" timestamp="1611158320676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1169" height="231" key="GridCell.Tab.1.left/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610888114646" />
     <state width="1423" height="229" key="GridCell.Tab.1.left/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607921187691" />
-    <state width="1169" height="231" key="GridCell.Tab.1.right" timestamp="1610888114646">
+    <state width="1249" height="231" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611158320676" />
+    <state width="1249" height="231" key="GridCell.Tab.1.right" timestamp="1611158320676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1169" height="231" key="GridCell.Tab.1.right/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610888114646" />
     <state width="1423" height="229" key="GridCell.Tab.1.right/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607921187691" />
+    <state width="1249" height="231" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611158320676" />
     <state x="806" y="221" key="RollbackChangesDialog" timestamp="1606712871973">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -546,11 +566,12 @@
     <state x="712" y="212" width="998" height="772" key="SettingsEditor/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610865444203" />
     <state x="712" y="212" key="SettingsEditor/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1607927120429" />
     <state x="485" y="192" key="SettingsEditor/0.0.1920.1040/1920.6.1920.1080@0.0.1920.1040" timestamp="1604714408522" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610888055876">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611153123727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.6.1280.720@0.0.1920.1040" timestamp="1610888055876" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.6.1536.864@0.0.1920.1040" timestamp="1608098888483" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611153123727" />
     <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606712852152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -576,6 +597,7 @@
     <SUITE FILE_PATH="coverage/FStudy$index.coverage" NAME="index Coverage Results" MODIFIED="1606712883217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/36类和对象/乌龟和鱼的游戏" />
     <SUITE FILE_PATH="coverage/FStudy$_2_.coverage" NAME="爬取贴吧图片-2-小括号是子组 Coverage Results" MODIFIED="1610775281567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/正则表示式" />
     <SUITE FILE_PATH="coverage/FStudy$urlretrieve_2.coverage" NAME="urlretrieve-2 Coverage Results" MODIFIED="1606050597695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/urlretrieve下载" />
+    <SUITE FILE_PATH="coverage/FStudy$12_Scale.coverage" NAME="12-Scale刻度滑块 Coverage Results" MODIFIED="1611153501869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$sys_2.coverage" NAME="使用sys添加_2 Coverage Results" MODIFIED="1606717470367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/引用的两种方式" />
     <SUITE FILE_PATH="coverage/FStudy$3_.coverage" NAME="3-提醒内容 Coverage Results" MODIFIED="1610859611196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$for.coverage" NAME="测试for Coverage Results" MODIFIED="1610867591447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
@@ -598,11 +620,12 @@
     <SUITE FILE_PATH="coverage/FStudy$9_2invalidcommd.coverage" NAME="9-2验证检测使用invalidcommd Coverage Results" MODIFIED="1610879993294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
     <SUITE FILE_PATH="coverage/FStudy$UseCemera.coverage" NAME="UseCemera Coverage Results" MODIFIED="1609120340350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage/monitorPC" />
     <SUITE FILE_PATH="coverage/FStudy$urlretrieve_2__1_.coverage" NAME="urlretrieve使用-2 (1) Coverage Results" MODIFIED="1606053271545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/urlretrieve下载" />
-    <SUITE FILE_PATH="coverage/FStudy$9_4_3.coverage" NAME="9-4-3实现计算器 Coverage Results" MODIFIED="1610888032773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
+    <SUITE FILE_PATH="coverage/FStudy$9_4_3.coverage" NAME="9-4-3实现计算器 Coverage Results" MODIFIED="1611153078441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
     <SUITE FILE_PATH="coverage/FStudy$matlab.coverage" NAME="matlab展示图片 Coverage Results" MODIFIED="1607829914063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
     <SUITE FILE_PATH="coverage/FStudy$1_FirstTest.coverage" NAME="1-FirstTest Coverage Results" MODIFIED="1610775626970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器" />
     <SUITE FILE_PATH="coverage/FStudy$elsewhile.coverage" NAME="else与while搭配 Coverage Results" MODIFIED="1608377747087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/34" />
     <SUITE FILE_PATH="coverage/FStudy$8_4.coverage" NAME="8-4实现登录框 Coverage Results" MODIFIED="1610874329912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框" />
+    <SUITE FILE_PATH="coverage/FStudy$13_1_Text.coverage" NAME="13-1-Text文本输入 Coverage Results" MODIFIED="1611157398632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Text文本输入" />
     <SUITE FILE_PATH="coverage/FStudy$EasyGui.coverage" NAME="简单使用EasyGui Coverage Results" MODIFIED="1607851897000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/35EasyGui" />
     <SUITE FILE_PATH="coverage/FStudy$_2.coverage" NAME="摄像头调用_2 Coverage Results" MODIFIED="1607830801458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
     <SUITE FILE_PATH="coverage/FStudy$UseCemera_2.coverage" NAME="UseCemera_2 Coverage Results" MODIFIED="1609120360879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
@@ -610,6 +633,7 @@
     <SUITE FILE_PATH="coverage/FStudy$selenium.coverage" NAME="selenium测试爬取 Coverage Results" MODIFIED="1610775712788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/简单应用/爬取新浪微博" />
     <SUITE FILE_PATH="coverage/FStudy$dd.coverage" NAME="dd Coverage Results" MODIFIED="1607589268292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/TwoUsage/test" />
     <SUITE FILE_PATH="coverage/FStudy$UseCemera__1_.coverage" NAME="UseCemera (1) Coverage Results" MODIFIED="1607935599895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZQuest" />
+    <SUITE FILE_PATH="coverage/FStudy$12_1Scale.coverage" NAME="12-1Scale刻度滑块 Coverage Results" MODIFIED="1611154078768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$5_2CheckButton.coverage" NAME="5-2CheckButton实现多选 Coverage Results" MODIFIED="1610870944603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$8_.coverage" NAME="8-获取属性的值 Coverage Results" MODIFIED="1606401005393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
     <SUITE FILE_PATH="coverage/FStudy$qq.coverage" NAME="qq Coverage Results" MODIFIED="1606312426296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器" />
@@ -633,7 +657,9 @@
     <SUITE FILE_PATH="coverage/FStudy$9_3.coverage" NAME="9-3使用额外的拓展 Coverage Results" MODIFIED="1610882357943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Entry输入框/输入验证检测" />
     <SUITE FILE_PATH="coverage/FStudy$_1_.coverage" NAME="爬取煎蛋网图片-1-获取下页网址 Coverage Results" MODIFIED="1605774075724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/爬取煎蛋网图片" />
     <SUITE FILE_PATH="coverage/FStudy$__init__.coverage" NAME="使用__init__方式 Coverage Results" MODIFIED="1607588889689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/37类和对象/TwoUsage" />
+    <SUITE FILE_PATH="coverage/FStudy$13_2_Text__1_.coverage" NAME="13-2-Text文本插入按钮 (1) Coverage Results" MODIFIED="1611157995620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Text文本输入" />
     <SUITE FILE_PATH="coverage/FStudy$3_2.coverage" NAME="3-2提醒内容 Coverage Results" MODIFIED="1610860382458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
+    <SUITE FILE_PATH="coverage/FStudy$12_2Scale.coverage" NAME="12-2Scale显示刻度 Coverage Results" MODIFIED="1611155493013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$MM_2.coverage" NAME="爬取微博MM榜单图片-2 Coverage Results" MODIFIED="1607439152029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/简单应用/爬取新浪微博" />
     <SUITE FILE_PATH="coverage/FStudy$win10Mes.coverage" NAME="win10Mes Coverage Results" MODIFIED="1608098165997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage/monitorPC" />
     <SUITE FILE_PATH="coverage/FStudy$2_1.coverage" NAME="多异常输出2-1 Coverage Results" MODIFIED="1608376465313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/32异常" />
@@ -645,6 +671,8 @@
     <SUITE FILE_PATH="coverage/FStudy$win10.coverage" NAME="调用win10通知 Coverage Results" MODIFIED="1607856342137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZTheUsage" />
     <SUITE FILE_PATH="coverage/FStudy$4_.coverage" NAME="4-设置文本可变 Coverage Results" MODIFIED="1610862586821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter" />
     <SUITE FILE_PATH="coverage/FStudy$1_.coverage" NAME="1-属性定位 Coverage Results" MODIFIED="1607438829696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/selenium浏览器/xpath定位" />
+    <SUITE FILE_PATH="coverage/FStudy$13__Text.coverage" NAME="13--Text文本插入按钮 Coverage Results" MODIFIED="1611157289104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Text文本输入" />
     <SUITE FILE_PATH="coverage/FStudy$.coverage" NAME="爬取贴吧图片 Coverage Results" MODIFIED="1610775176804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46爬虫/正则表示式" />
+    <SUITE FILE_PATH="coverage/FStudy$13_3_Text.coverage" NAME="13-3-Text文本插入图片 Coverage Results" MODIFIED="1611158320639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/47Tkinter/Text文本输入" />
   </component>
 </project>
