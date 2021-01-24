@@ -1,6 +1,7 @@
 from tkinter import *
 '''这里使用PhotoImage显示图片的时候只能使用gif格式'''
 root = Tk()
+root.iconbitmap('damon.ico')
 photo = PhotoImage(file="aa.gif")
 imageLabel = Label(root,
                    text='明天就要寒假\n放假回家啦!',

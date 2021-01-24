@@ -1,5 +1,5 @@
 from tkinter import *
-
+'''多选框'''
 root = Tk()
 word = ['明天','回家', '坐飞机', '去郑州']
 v = []

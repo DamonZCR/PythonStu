@@ -1,0 +1,4 @@
+pack方法就是需要将容器如何放置在你的窗口上面，主要是相对位置的一个概念,而且最重要的是pack方法是按照代码执行顺序一行一行放置的，先后顺序对结果有很大影响。
+首先pack()方法的属性有如下几个：
+-after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, -side
+pack方法可以应用于Tkinter内的所有容器；

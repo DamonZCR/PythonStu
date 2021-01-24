@@ -11,5 +11,6 @@ class App:
          def say_hi(self):
                   print('你好')
 root = tk.Tk()
+root.iconbitmap('damon.ico')
 app = App(root)
 root.mainloop()
