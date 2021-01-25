@@ -7,7 +7,7 @@ textLabel = Label(root, text='请不要访问！',
                   padx=10) # 文字左对齐，已经行间距为10
 textLabel.pack(side=LEFT)
 
-photo = PhotoImage(file="aa.gif")
+photo = PhotoImage(file="布局管理器/aa.gif")
 imageLabel = Label(root, image=photo)
 imageLabel.pack(side=RIGHT)
 

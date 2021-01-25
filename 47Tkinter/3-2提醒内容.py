@@ -2,7 +2,7 @@ from tkinter import *
 '''这里使用PhotoImage显示图片的时候只能使用gif格式'''
 root = Tk()
 root.iconbitmap('damon.ico')
-photo = PhotoImage(file="aa.gif")
+photo = PhotoImage(file="布局管理器/aa.gif")
 imageLabel = Label(root,
                    text='明天就要寒假\n放假回家啦!',
                    justify=LEFT, # 调整文字左对齐

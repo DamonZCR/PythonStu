@@ -7,7 +7,7 @@ text.pack()
 
 # insert代表在光标处插入。
 text.insert(INSERT, "今天好困，我需要早睡\n")
-photo = PhotoImage(file='D:\\PythonPro\FStudy\\47Tkinter\\aa.gif')
+photo = PhotoImage(file='/47Tkinter/布局管理器/aa.gif')
 
 def show():
     text.image_create(END, image=photo)

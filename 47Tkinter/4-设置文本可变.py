@@ -11,7 +11,7 @@ textLabel = Label(frame1, textvariable=var,
                   justify=LEFT,
                   padx=10)
 textLabel.pack(side=LEFT)
-photo = PhotoImage(file="aa.gif")
+photo = PhotoImage(file="布局管理器/aa.gif")
 imageLabel = Label(frame1, image=photo)
 imageLabel.pack(side=RIGHT)
 
