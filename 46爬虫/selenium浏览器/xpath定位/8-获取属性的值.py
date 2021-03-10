@@ -3,7 +3,7 @@ import time
 '''
 未完成
 '''
-driver = webdriver.Firefox('../geckodriver.exe')
+driver = webdriver.Chrome('../chromedriver.exe')
 driver.get('https://www.baidu.com')
 
 time.sleep(5)

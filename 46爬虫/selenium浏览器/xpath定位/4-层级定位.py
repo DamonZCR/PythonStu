@@ -19,7 +19,7 @@ driver.find_element_by_id('kw').clear()
 
 # 通过它爷爷标签查找。
 time.sleep(3)
-driver.find_element_by_xpath("//form[@name='f']/span/Entry输入框").send_keys('量子')
+driver.find_element_by_xpath("//form[@name='f']/span/input").send_keys('量子')
 time.sleep(3)
 
 # 通过孩子找爷爷。找到form表单：/..找到它的父亲，再加上一个找到它的爷爷。

@@ -6,7 +6,7 @@ import time
 '''
 
 # ./代表当前目录      ../代表父级目录       /根目录
-driver = webdriver.Chrome('..//chromedriver.exe')
+driver = webdriver.Chrome('../chromedriver.exe')
 driver.get('https://www.baidu.com')
 
 # 使用id 属性进行定位。
