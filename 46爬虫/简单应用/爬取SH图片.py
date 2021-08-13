@@ -58,9 +58,9 @@ if '__main__' == __name__:
         print("异常：此文件夹已存在"+str(reason))
     os.chdir('D:\\Download')
     url = list()
-    url = ['https://www.4hua81.com/pic/html28/39458.html',
-           'https://www.4hua81.com/pic/html28/39426.html',
-           'https://www.4hua81.com/pic/html28/39453.html']
+    url = ['https:/pic/html28/39458.html',
+           'https:/pic/html28/39426.html',
+           'https:/pic/html28/39453.html']
     # print(url)
     for i in url:
         downPFromUrl(getHtml(i))

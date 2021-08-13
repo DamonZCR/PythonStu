@@ -3,7 +3,7 @@ import time
 '''
 模糊匹配，可以使用包含、以开始、已结束的模糊查找
 '''
-driver = webdriver.Firefox('../geckodriver.exe')
+driver = webdriver.Chrome('..//chromedriver.exe')
 driver.get('https://www.baidu.com')
 
 time.sleep(5)
